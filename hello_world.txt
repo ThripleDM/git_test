@@ -1,0 +1,2 @@
+This is the part where the system outputs "Hello world" in the console and the tutorial says you've made your first program.
+If only it remained that easy.
